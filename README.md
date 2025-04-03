@@ -1,2 +1,2 @@
 # Seven Bridges of Konigsberg
-The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other.
+The Seven Bridges of Königsberg is a historically notable problem in mathematics. Its negative resolution by Leonhard Euler in 1736 laid the foundations of graph theory and prefigured the idea of topology. This program calculates all possible paths over bridges (even though there is none).
